@@ -1,0 +1,15 @@
+Gender,Age,openness,neuroticism,conscientiousness,agreeableness,extraversion,Personality (Class label)
+Male,17,7,4,7,3,2,extraverted
+Male,19,4,5,4,6,6,serious
+Female,18,7,6,4,5,5,dependable
+Female,22,5,6,7,4,3,extraverted
+Female,19,7,4,6,5,4,lively
+Male,18,5,7,7,6,4,lively
+Female,17,5,6,5,7,4,extraverted
+Female,19,6,6,7,5,4,extraverted
+Male,18,5,7,5,6,7,dependable
+Female,19,5,5,7,4,5,lively
+Male,19,6,7,5,6,3,serious
+Male,19,7,6,7,7,6,extraverted
+Male,19,7,6,6,5,6,lively
+Female,19,6,7,5,5,5,dependable
